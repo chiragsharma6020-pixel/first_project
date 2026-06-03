@@ -1,4 +1,4 @@
 # first_project
-Author - Chirag Sharma
+Author - Chiku raani
 <hr>
 hey there
